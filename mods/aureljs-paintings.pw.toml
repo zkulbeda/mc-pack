@@ -1,0 +1,13 @@
+name = "Aurelj's Paintings"
+filename = "AureljPaintings-1.0.4-1.21.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uiADepy3/versions/R4lKotJA/AureljPaintings-1.0.4-1.21.x-fabric.jar"
+hash-format = "sha512"
+hash = "dea8e08e340edf996ee43ce7df80a4422d79017917db191f79d12c692fb4489bd9b099783bb4c964e09a266eeb644c421e36756d0464f1074d9225800471ff4c"
+
+[update]
+[update.modrinth]
+mod-id = "uiADepy3"
+version = "R4lKotJA"

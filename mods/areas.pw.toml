@@ -1,0 +1,13 @@
+name = "Areas"
+filename = "areas-1.21.1-6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NWvsqJ2Z/versions/Ppbb7pia/areas-1.21.1-6.1.jar"
+hash-format = "sha512"
+hash = "0eb79d3ff53ff35e8e5a45ea1b449239cbb3783149d70159d05d4b2d6d835c04c437cbc4c21d0679009cf9f97277de5cd03f2f71f6c53f537a6e2e72eec3831e"
+
+[update]
+[update.modrinth]
+mod-id = "NWvsqJ2Z"
+version = "Ppbb7pia"

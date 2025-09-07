@@ -1,0 +1,13 @@
+name = "DragonLoot"
+filename = "dragonloot-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EldwHO4Z/versions/uCznDel0/dragonloot-1.1.7.jar"
+hash-format = "sha512"
+hash = "e99bd13c97c0c4ab53f874c5ba1726d7da168acc6f8047955d8e479ea5d2285d7b630913f0d1e6fe6755a75ce99133d79aaf022d56c1a07f076cddd9ddc17d30"
+
+[update]
+[update.modrinth]
+mod-id = "EldwHO4Z"
+version = "uCznDel0"

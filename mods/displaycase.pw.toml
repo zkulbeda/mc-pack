@@ -1,0 +1,13 @@
+name = "Display Case"
+filename = "display_case-fabric-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/NdUFS3lV/display_case-fabric-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "c60d5bb0649dc372822637fd75b1b50901d9c30d810beb6244cc83507eed7968eb5881dbdc264a1c52d74c30109cc8cb5500fdeee53005b07ed2a9c4a87551f0"
+
+[update]
+[update.modrinth]
+mod-id = "cSIsh4gX"
+version = "NdUFS3lV"

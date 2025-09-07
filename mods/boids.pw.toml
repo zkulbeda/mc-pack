@@ -1,0 +1,13 @@
+name = "Boids"
+filename = "Boids-2.0.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OckSy74/versions/VIDZDUrg/Boids-2.0.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "e8de71f8a0598468b7c983aae250d88746a5add895531e4fe1d251d7d73a974b32f96d166df98e24e4ae638ecd0e110a6c9f1a7e89751adc118cc119f6012f5a"
+
+[update]
+[update.modrinth]
+mod-id = "2OckSy74"
+version = "VIDZDUrg"

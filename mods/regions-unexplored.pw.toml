@@ -1,0 +1,13 @@
+name = "Regions Unexplored"
+filename = "regions_unexplored-fabric-1.21.1-0.5.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/ZS3DtSyB/regions_unexplored-fabric-1.21.1-0.5.6.1.jar"
+hash-format = "sha512"
+hash = "8088b34e1e44ba2b23830750c5be46de32e6076d0477b19fca2e22aaa12fb0d8e294564454ae4f07c0172aef997477b3f68dd17446fd1f731b4d347d53fa54a2"
+
+[update]
+[update.modrinth]
+mod-id = "Tkikq67H"
+version = "ZS3DtSyB"

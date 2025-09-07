@@ -1,0 +1,13 @@
+name = "Robin's Smithery"
+filename = "smithery-0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V3KeWyKM/versions/HQQm2l6U/smithery-0.5.1.jar"
+hash-format = "sha512"
+hash = "fe13aa28432772f9fb06673be7998acd30585d154df7419d39a0c500d1250a8b0231ec1a6248593c83816714400cce8754b9bd045f016f84b693005dcdc832ac"
+
+[update]
+[update.modrinth]
+mod-id = "V3KeWyKM"
+version = "HQQm2l6U"

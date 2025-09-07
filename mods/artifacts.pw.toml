@@ -1,0 +1,13 @@
+name = "Artifacts"
+filename = "artifacts-fabric-13.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/uxIiRKQD/artifacts-fabric-13.0.6.jar"
+hash-format = "sha512"
+hash = "24a5706e090679116d7d6b6af1b16908c8eaeda5b284222365a0f53aa35325bd0f2fa38adb0eb1ffe5193708e5a385dcdc93de4495ea441950d4d353adc2b372"
+
+[update]
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "uxIiRKQD"

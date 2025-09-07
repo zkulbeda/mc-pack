@@ -1,0 +1,13 @@
+name = "Floating Items Enchanting Table"
+filename = "Floating Items Enchanting Table 1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JBAfXTVG/versions/h4FRykhg/Floating%20Items%20Enchanting%20Table%201.21.x.jar"
+hash-format = "sha512"
+hash = "c5a7cc2a5143fa59e9fe53b2f7d8a8fdb10b108b557477895f119e0aeb22599128a2d1b03cba61c2792b2a085cb1b1e630d94a3ee21f68077ae76f2e571e56a7"
+
+[update]
+[update.modrinth]
+mod-id = "JBAfXTVG"
+version = "h4FRykhg"

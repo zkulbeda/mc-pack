@@ -1,0 +1,13 @@
+name = "Paladin's Furniture Mod"
+filename = "paladin-furniture-mod-1.4.3-fabric-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISz7Qd3/versions/qh3D1rjU/paladin-furniture-mod-1.4.3-fabric-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "9befe06f9d2340dc59855f70a23102a86330e0ad03a0522a6be19f913223b061aec192a25dd1de0d373a7970e02f40f27105f80e5feae1f28409cf25ccb1c7c3"
+
+[update]
+[update.modrinth]
+mod-id = "SISz7Qd3"
+version = "qh3D1rjU"

@@ -1,0 +1,13 @@
+name = "Flower Tweaks"
+filename = "flower-tweaks-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JSMwcdt3/versions/blLojqgy/flower-tweaks-3.jar"
+hash-format = "sha512"
+hash = "008ba33f0fa56e2a12414e338a3d98514eaba048577109b50d708649f446d8b2eac6102e116bea10d2410a4813938c977f4f20acd08b7af25032d4ab26812166"
+
+[update]
+[update.modrinth]
+mod-id = "JSMwcdt3"
+version = "blLojqgy"

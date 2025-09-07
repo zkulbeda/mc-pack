@@ -1,0 +1,13 @@
+name = "More Trades and Bartering"
+filename = "tradesandbartering-1.21-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y6xQE6Qx/versions/AnRfWXft/tradesandbartering-1.21-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "0eca8da30b6f73aa117e369ef1cbf86fd69bf962bbc9072796a59367f3ea3e51ed5bd16ef9e92a913bc312251b828aaa1deb8df048135e772afe3530d60ed203"
+
+[update]
+[update.modrinth]
+mod-id = "Y6xQE6Qx"
+version = "AnRfWXft"

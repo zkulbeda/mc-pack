@@ -1,0 +1,13 @@
+name = "Awesome Dungeon"
+filename = "awesomedungeon-fabric-1.21.1-3.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ptzsjBKT/versions/xJnyRm2Q/awesomedungeon-fabric-1.21.1-3.2.0.jar"
+hash-format = "sha512"
+hash = "8ff237b19814449b8e99439676fa1e459aede01d379e2803b273d2044d3517e99f0f36f8a108229f99a7ec40e9d855636e7b804ebb78972c75dd00112bc71a2a"
+
+[update]
+[update.modrinth]
+mod-id = "ptzsjBKT"
+version = "xJnyRm2Q"

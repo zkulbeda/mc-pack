@@ -1,0 +1,13 @@
+name = "Stacked Blocks"
+filename = "stackedblocks-25.02.13-1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UYrNpKJN/versions/FHKVbJJO/stackedblocks-25.02.13-1.21-fabric.jar"
+hash-format = "sha512"
+hash = "fde91eaee872e2d523f869da5efdc7849f41ad676ab57f3938c78b2adaf567767219f550aabe7b846ea9932cae7c745d293957a4cdd9c89836553a6da00e2fd7"
+
+[update]
+[update.modrinth]
+mod-id = "UYrNpKJN"
+version = "FHKVbJJO"

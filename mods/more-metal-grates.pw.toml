@@ -1,0 +1,13 @@
+name = "More Metal Grates"
+filename = "More_Metal_Grates-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZD9xU1v/versions/BBAC7Vat/More_Metal_Grates-1.1.jar"
+hash-format = "sha512"
+hash = "b8c2a35f0f1de32234d27a2b4dfa9102f6468423c7a6f434f2a2accbdf26c048eb9288578ee58d04f98457914da64eaec9e0eeac9da0eb11a471e255f8022563"
+
+[update]
+[update.modrinth]
+mod-id = "pZD9xU1v"
+version = "BBAC7Vat"

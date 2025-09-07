@@ -1,0 +1,15 @@
+name = "albyyyy"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d19aef5f528fbd8dc80433479b3fbf6dbd45fda2be75344a011272aa1ba229ae"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]

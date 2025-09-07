@@ -1,0 +1,13 @@
+name = "Enderite Gear & Tools"
+filename = "enderite-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a8g3npSq/versions/QaghIxEX/enderite-1.0.0.jar"
+hash-format = "sha512"
+hash = "0b0b1d87f4267c2c308124efe3ab61fa66597ec635f760e260f7466938caba9dc502ae1d553cb37e719a676789495abf57617f69710ba366dad205394ccd872a"
+
+[update]
+[update.modrinth]
+mod-id = "a8g3npSq"
+version = "QaghIxEX"

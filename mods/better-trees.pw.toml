@@ -1,0 +1,13 @@
+name = "Better Trees"
+filename = "better-trees-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cfXIpi12/versions/9JWnGAKJ/better-trees-1.9.1.jar"
+hash-format = "sha512"
+hash = "7e862a270300fbaf878d5d9ad0a6022df6dc88c1d819051a07c8edc7ae343a9ae26bf542849f40dc416550048bb3a9e758b56309b8640d67c1f32f0fd74216e9"
+
+[update]
+[update.modrinth]
+mod-id = "cfXIpi12"
+version = "9JWnGAKJ"

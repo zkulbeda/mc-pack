@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-windows-2.4.0-1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/dvrF69YW/mcw-windows-2.4.0-1.21.1fabric.jar"
+hash-format = "sha512"
+hash = "3a3c3283cac31859fb7ec0abe0f1ff53b39cad07a05a09910888684b580a42ceed6be0c023c9cdc1a865d4a0d2aaa1b7969c0d89c2912629362f173bda1444e6"
+
+[update]
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "dvrF69YW"

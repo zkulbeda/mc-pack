@@ -1,0 +1,13 @@
+name = "Villagers Buy Ender Pearls (Cleric)"
+filename = "villagers-buy-enderpearls-v.1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kkUSVECT/versions/U8u8pogR/villagers-buy-enderpearls-v.1.0.1.jar"
+hash-format = "sha512"
+hash = "2a0c12583568a4a983799df65afc0e326babc07f6ac3530983b1ff47a7e11570a3b541b91da531a167734e93186787e7d1eb58749f700d05ab8c4247ca76e644"
+
+[update]
+[update.modrinth]
+mod-id = "kkUSVECT"
+version = "U8u8pogR"

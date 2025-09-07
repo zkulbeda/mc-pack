@@ -1,0 +1,13 @@
+name = "Forget Me Wand"
+filename = "ForgetMeWand-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WLw3NS3H/versions/u0CaPgOx/ForgetMeWand-1.0.jar"
+hash-format = "sha512"
+hash = "633f47b1d870f57340ce20d50f1cdfc279bd47462d9a7890fa78627e32824a325c2e971df8c68e3bfa36f4edaf80398528b02db84fd4f8d3c97fdbb74405382a"
+
+[update]
+[update.modrinth]
+mod-id = "WLw3NS3H"
+version = "u0CaPgOx"

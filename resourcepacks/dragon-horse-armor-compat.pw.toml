@@ -1,0 +1,13 @@
+name = "Dragon Horse Armor Compat"
+filename = "FA_Extension+Dragonloot.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jcxkJE6C/versions/Yrf8rFE8/FA_Extension%2BDragonloot.zip"
+hash-format = "sha512"
+hash = "d578fed8ba415faadb8ad024d1e6db7aaac03339f4e2c3ce930283d10cebc2ee458cf854e197ca6fe411d4b23f035efe1d5dcc9b481a96574d7caed93190e1b9"
+
+[update]
+[update.modrinth]
+mod-id = "jcxkJE6C"
+version = "Yrf8rFE8"

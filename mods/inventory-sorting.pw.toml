@@ -1,0 +1,13 @@
+name = "Inventory Sorting"
+filename = "InventorySorter-1.9.0-1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ibSyLAz/versions/Y0KUoPqY/InventorySorter-1.9.0-1.21.jar"
+hash-format = "sha512"
+hash = "9974a919d00141070084c3d1a919b3b6d2572798db4c2ea306a46ce7b2b6d7ae4e8c57e0690b7d32b9c13fe56ea4d18196082753b18d146023737d14b391f64b"
+
+[update]
+[update.modrinth]
+mod-id = "5ibSyLAz"
+version = "Y0KUoPqY"

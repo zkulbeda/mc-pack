@@ -1,0 +1,13 @@
+name = "Clear Glass"
+filename = "Clear Glass 1.2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mqy1I80f/versions/WF83I2Cp/Clear%20Glass%201.2.1.zip"
+hash-format = "sha512"
+hash = "ac048e895f6f01eb23d6b248fb93689d953b82e7beef83517cd20d2b2cadf8b8fa5014d87438c5edc6b75965cb1b5d5f297e9929ae39bb766f1cfbabb96f31ef"
+
+[update]
+[update.modrinth]
+mod-id = "Mqy1I80f"
+version = "WF83I2Cp"

@@ -1,0 +1,13 @@
+name = "ItemLocks"
+filename = "ItemLocks-Fabric-1.21-1.3.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJzrFuyy/versions/AmikGda1/ItemLocks-Fabric-1.21-1.3.9.jar"
+hash-format = "sha512"
+hash = "3b0df9fb8cf18f33e5aa5939f05568820137349b3686b90c65faca450be299e1f5b8fd4b5fff25804842909e78232921607fde067f64d161a7a8848e109c6e51"
+
+[update]
+[update.modrinth]
+mod-id = "tJzrFuyy"
+version = "AmikGda1"

@@ -1,0 +1,13 @@
+name = "Drip Faster"
+filename = "DripFaster-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pMLnf3Ma/versions/5TFDkdW1/DripFaster-1.2.jar"
+hash-format = "sha512"
+hash = "54f894ab0a63a5c9c04759482ddaf3522f139baa60df206c8414f64a3e65ec0c2d7205fdd864dd47c38e44b7c9480e1c62119c84f90e975d259083feaf1280cb"
+
+[update]
+[update.modrinth]
+mod-id = "pMLnf3Ma"
+version = "5TFDkdW1"

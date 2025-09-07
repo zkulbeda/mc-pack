@@ -1,0 +1,13 @@
+name = "Discoveria"
+filename = "discoveria-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x4MjQT3r/versions/LOwkrVVk/discoveria-2.0.3.jar"
+hash-format = "sha512"
+hash = "c527267d3f03f5ae8930a57cbd66d94b60cb498af588fcd22b776bcf2352f7e4742f1e8f3ad6080a710605642cad452f5bffdf42f2f5b36687f93bef67a0e5d3"
+
+[update]
+[update.modrinth]
+mod-id = "x4MjQT3r"
+version = "LOwkrVVk"

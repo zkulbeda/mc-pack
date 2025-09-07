@@ -1,0 +1,13 @@
+name = "Bucket Filler"
+filename = "bucketfiller-2.0.0+MC1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xdgSwncx/versions/5196cGkL/bucketfiller-2.0.0%2BMC1.20.1.jar"
+hash-format = "sha512"
+hash = "2dafff0e1d7afd391185ae572147fbcf99b120210397e89bec33d64abf98f84724a0bd8799ad93a5119f9170f39215de35d2a2ab210b5cdb14cc593462930481"
+
+[update]
+[update.modrinth]
+mod-id = "xdgSwncx"
+version = "5196cGkL"

@@ -1,0 +1,13 @@
+name = "Pedestals - Display your items!"
+filename = "pedestals-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WZFH5awp/versions/wporF1RR/pedestals-1.1.0.jar"
+hash-format = "sha512"
+hash = "2c1bed001f2a7270a934ca26d8f409e197f5b1d9feea3e132b1c06c7a23478c2572208e09a6dfbe30e8171469347d9464aec2f0eec600e8fb685974ea73b6902"
+
+[update]
+[update.modrinth]
+mod-id = "WZFH5awp"
+version = "wporF1RR"

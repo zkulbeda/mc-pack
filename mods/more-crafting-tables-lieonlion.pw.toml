@@ -1,0 +1,13 @@
+name = "More Crafting Tables (MCT)"
+filename = "MoreCraftingTables-1.2.8+1.21-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5hwIsg1/versions/F1NJF7Dr/MoreCraftingTables-1.2.8%2B1.21-Fabric.jar"
+hash-format = "sha512"
+hash = "860019a5b0c981704907c7127070d444d9104acb62dcf45cfbb21f50c62fd34080956a03a762e843995b4b05ca66983426062b376cb7e21c2405326a57e400fa"
+
+[update]
+[update.modrinth]
+mod-id = "C5hwIsg1"
+version = "F1NJF7Dr"

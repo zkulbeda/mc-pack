@@ -1,0 +1,13 @@
+name = "More Compatibility Variants (Biomes o' Plenty)"
+filename = "more-compatibility-variants-bop-1.0.2+1.21(.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kRVZt7HW/versions/JiL2T5A6/more-compatibility-variants-bop-1.0.2%2B1.21%28.1%29.jar"
+hash-format = "sha512"
+hash = "cc1505642451e8ab5b0308692318e8c6d5a712d7f7671345e5775b485c54c6cead145f034e7e02061a573b84040bdda2c7807995aa1c4ecedc99c996f97d35a1"
+
+[update]
+[update.modrinth]
+mod-id = "kRVZt7HW"
+version = "JiL2T5A6"

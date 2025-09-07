@@ -1,0 +1,13 @@
+name = "Deer Mod"
+filename = "deermod-fabric-0.2.7+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nxu5cwsq/versions/xksP4jxo/deermod-fabric-0.2.7%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5db7eb4be1f48079eee001847963dea87b4d80bbbaad9317cd5cba7120e180cdae20fc5e55dd96ee269190e667c2c44aa9ab2f9d50b7600c14df6abfa48e3108"
+
+[update]
+[update.modrinth]
+mod-id = "Nxu5cwsq"
+version = "xksP4jxo"

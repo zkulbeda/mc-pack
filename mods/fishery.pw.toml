@@ -1,0 +1,13 @@
+name = "Robin's Fishery"
+filename = "fishery-0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gCfE1Tk0/versions/kDxucluF/fishery-0.4.jar"
+hash-format = "sha512"
+hash = "fd40ecf2deea78e5990ef0a75c66dcbbdf506db8200381fb5f045f046a7918ce047b473b0f4590a33420f08967ef76bbc483c310f73ef6d42eec06726f9ec418"
+
+[update]
+[update.modrinth]
+mod-id = "gCfE1Tk0"
+version = "kDxucluF"

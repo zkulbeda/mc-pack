@@ -1,0 +1,13 @@
+name = "Chef's Delight - Farmer's Delight Villagers"
+filename = "chefs-delight-1.0.4-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pvcsfne4/versions/ittLJDio/chefs-delight-1.0.4-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "9ebd2311919aef05957659da169639899b3ed4a3965e31af09c1ae1e4ebd4076eba3ffe7b419dca3927655006bb9bc2f465da9c6f7eff3a9f3a5d52ba6083737"
+
+[update]
+[update.modrinth]
+mod-id = "pvcsfne4"
+version = "ittLJDio"

@@ -1,0 +1,13 @@
+name = "Enhanced Experiences"
+filename = "inquisitive-enchantment-v1.21.1-1.2b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BFaXT50n/versions/S4yaadDl/inquisitive-enchantment-v1.21.1-1.2b.jar"
+hash-format = "sha512"
+hash = "fcd78062f34b118ee487f096f26839f22cc77c7ee1aeb4a497b9d33b59a5dfb33d3562cdcfa88b39ffb91a2e296b2c0d2f25aee45560af13ed1b9c3fae19412f"
+
+[update]
+[update.modrinth]
+mod-id = "BFaXT50n"
+version = "S4yaadDl"
