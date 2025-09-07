@@ -5,6 +5,22 @@ file = "MODLIST.md"
 hash = "94cfa3fed5e6e6c420c64d1c8c2a01b19458d3860f7112d20c69049b9cc996df"
 
 [[files]]
+file = "config/AdvancedBackups.properties"
+hash = "f11af53de43eeae1c42b43fae0ccbfe1a95834915ede5565bb24afe1c8aece73"
+
+[[files]]
+file = "config/EasyAuth/extended.conf"
+hash = "c9ff03d313bccbbb4edd18a9b6647af7d52761f06b283bfae37dd1c02ba2fa26"
+
+[[files]]
+file = "config/EasyAuth/main.conf"
+hash = "d1ecc707192ab0d1ce3cfa677a59ca3f9aa3b98c62a8dc9855ac8095525f489a"
+
+[[files]]
+file = "config/EasyAuth/technical.conf"
+hash = "6ba9d25d6d99fafd1ba4256212f42287e78a04583f072d7a41926ee614fa1a39"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -35,6 +51,10 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "52676c32fa8db48a4010253bb35cc132c1cb57c68eb9c40643713aacdd0f2ce3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "25b738c8f64dc7ecbad9740769e6232bc432096e2e50d62082de19ee8b8d4670"
 
 [[files]]
 file = "config/lithium.properties"
