@@ -1258,6 +1258,11 @@ hash = "794ca3ffcd7ae4cea141c6e85049e18a69bd037a3a5d699bbd4a507b0748d627"
 metafile = true
 
 [[files]]
+file = "mods/world-preview.pw.toml"
+hash = "f8bf41ac19c20de158a9b8da3032a4aa06122b77748b04ca289d397f0062ab0a"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "930c62a2d832d9b9dac1637a89265415007eba0033e84cbc1b9b80bd6f483554"
 metafile = true
