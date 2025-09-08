@@ -284,6 +284,11 @@ hash = "c5833c66008b22b8cdcbc719300e34f9e29a14f5c67789c0498451448ab40296"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
+metafile = true
+
+[[files]]
 file = "mods/boids.pw.toml"
 hash = "4049e57323fb89a8766a30d8a5cdd9b37d5b10813d9476bb57e3223950c252d5"
 metafile = true
