@@ -958,6 +958,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "f1304d2758d1b259a7f3b0b1f9a849796614ee7b5e11fbd8646a164a5b85f8e2"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "fb64786c11ef1f6d2a6ca19aa9b20ebd5515f00abc48b64b9050b2fcdb1b1cdb"
 metafile = true
@@ -1013,6 +1018,11 @@ hash = "78b3108ac13beeaf742ed04176b1a1d456072aaa2a32f2335870c88ff8474f6e"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "c31139b2000d9ca4cf454199da62432e730bb289ba9c14dcd3e43d46be3bdec5"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
 metafile = true
@@ -1065,6 +1075,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
 metafile = true
 
 [[files]]
@@ -1215,6 +1230,11 @@ metafile = true
 [[files]]
 file = "mods/useless-reptile.pw.toml"
 hash = "1f0975667553a025883d65142d332350818fed4b99bc4528895a5de60df27cc3"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "e6233a928624d444f0112c4d0c6ee7fd85ba2384cfff9b1382117c75dbbca572"
 metafile = true
 
 [[files]]
