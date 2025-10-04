@@ -388,6 +388,11 @@ hash = "5f4a2827868ba96bdcf5d33b59c04a7c45d9306a12a407fc612aae4824186d83"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "ae08a9c482b986955b8b29158746d67adf6bb6d13c0d23d10ae032bac599c2d0"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
@@ -1140,11 +1145,6 @@ metafile = true
 [[files]]
 file = "mods/tameable-foxes.pw.toml"
 hash = "b3bd39920a8f10f0447aac361b96794fd61753657a199771f090b70797902fc2"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "d4979deefabe1f0ca58bb29e6092102be6d9c386203fd2ee430f8fcbed69800d"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 # Mod List
 
-Total mods: 248
+Total mods: 253
 
 ## Regular Mods
 
@@ -26,7 +26,7 @@ Total mods: 248
 - [Hopo Better Mineshaft](https://modrinth.com/mod/hopo-better-mineshaft) (Both)
 - [Hopo Better Underwater Ruins](https://modrinth.com/mod/hopo-better-underwater-ruins) (Both)
 - [MVS - Moog's Voyager Structures](https://modrinth.com/mod/moogs-voyager-structures) (Server)
-- [Villages & Pillages](https://modrinth.com/mod/villages-and-pillages) (Server)
+- [Villages&Pillages](https://modrinth.com/mod/villages-and-pillages) (Server)
 - [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) (Server)
 - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) (Server)
 - [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples) (Server)
@@ -101,6 +101,7 @@ Total mods: 248
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker) (Both)
 - [Illager Invasion](https://modrinth.com/mod/illager-invasion) (Both)
 - [Mobs of Mythology](https://modrinth.com/mod/mobs-of-mythology) (Both)
+- [Vanilla Backport: Chase the Skies, The Garden Awakens](https://modrinth.com/mod/vanillabackport) (Both)
 
 ### Adventure & Optimization & Worldgen
 
@@ -127,14 +128,13 @@ Total mods: 248
 - [Additional Structures](https://modrinth.com/mod/additional-structures) (Server)
 - [Angel Islands](https://modrinth.com/mod/angel-islands) (Both)
 - [Artifacts](https://modrinth.com/mod/artifacts) (Both)
-- [Better Villages](https://modrinth.com/mod/better-village) (Both)
+- [Better Villages](https://modrinth.com/mod/better-village) (Server)
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) (Server)
 - [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns) (Both)
 - [Explorify](https://modrinth.com/mod/explorify) (Both)
 - [Incendium](https://modrinth.com/mod/incendium) (Both)
 - [Paradise Lost](https://modrinth.com/mod/paradise-lost) (Both)
 - [qrafty's End Villages](https://modrinth.com/mod/qraftys-end-villages) (Both)
-- [Tectonic](https://modrinth.com/mod/tectonic) (Both)
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers) (Server)
 - [Underground Bunkers](https://modrinth.com/mod/underground-bunkers) (Server)
 - [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) (Server)
@@ -171,6 +171,7 @@ Total mods: 248
 - [Macaw's Windows](https://modrinth.com/mod/macaws-windows) (Both)
 - [More Metal Grates](https://modrinth.com/mod/more-metal-grates) (Both)
 - [Particle Rain](https://modrinth.com/mod/particle-rain) (Client)
+- [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) (Client)
 - [Stoneworks](https://modrinth.com/mod/stoneworks) (Both)
 - [Visuality](https://modrinth.com/mod/visuality) (Client)
 
@@ -199,7 +200,7 @@ Total mods: 248
 
 ### Decoration & Game Mechanics & Library
 
-- [Areas](https://modrinth.com/mod/areas) (Both)
+- [Areas](https://modrinth.com/mod/areas) (Client)
 
 ### Decoration & Game Mechanics & Magic
 
@@ -220,6 +221,10 @@ Total mods: 248
 - [Animal Garden - Owl](https://modrinth.com/mod/animal-garden-owl) (Both)
 - [cat_jam](https://modrinth.com/mod/cat_jam) (Client)
 - [Let Sleeping Dogs Lie](https://modrinth.com/mod/let-sleeping-dogs-lie) (Client)
+
+### Decoration & Mobs & Worldgen
+
+- [Ribbits](https://modrinth.com/mod/ribbits) (Both)
 
 ### Decoration & Optimization
 
@@ -383,7 +388,6 @@ Total mods: 248
 
 - [BetterGrassify](https://modrinth.com/mod/bettergrassify) (Client)
 - [Debugify](https://modrinth.com/mod/debugify) (Both)
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons) (Both)
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) (Client)
 - [FastQuit](https://modrinth.com/mod/fastquit) (Client)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) (Both)
@@ -415,6 +419,7 @@ Total mods: 248
 ### Uncategorized
 
 - [Amendments](https://modrinth.com/mod/amendments) (Both)
+- [Bobby](https://modrinth.com/mod/bobby) (Client)
 - [Mending + Infinity](https://modrinth.com/mod/mending-+-infinity-(by-uiinpui)) (Both)
 - [MixinTrace](https://modrinth.com/mod/mixintrace) (Both)
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) (Client)
@@ -432,9 +437,14 @@ Total mods: 248
 - [StackDeobfuscator](https://modrinth.com/mod/stackdeobf) (Both)
 - [Trading Post](https://modrinth.com/mod/trading-post) (Both)
 
+### Utility & Worldgen
+
+- [World Preview](https://modrinth.com/mod/world-preview) (Client)
+
 ### Worldgen
 
-- [Awesome Dungeon](https://modrinth.com/mod/awesome-dungeon) (Both)
+- [Awesome Dungeon](https://modrinth.com/mod/awesome-dungeon) (Server)
+- [Continents](https://modrinth.com/mod/continents) (Both)
 - [Discoveria](https://modrinth.com/mod/discoveria) (Both)
 - [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) (Both)
 - [Repurposed Structures - Quilt/Fabric](https://modrinth.com/mod/repurposed-structures-fabric) (Server)
@@ -493,7 +503,7 @@ Total mods: 248
 ### Game Mechanics & Library & Utility
 
 - [AzureLib](https://modrinth.com/mod/azurelib) (Both) *(required by: Mobs of Mythology, Useless Reptile)*
-- [Geckolib](https://modrinth.com/mod/geckolib) (Both) *(required by: Adorable Hamster Pets, Deeper and Darker, Deer Mod, Mobs of Mythology, Useless Reptile)*
+- [Geckolib](https://modrinth.com/mod/geckolib) (Both) *(required by: Adorable Hamster Pets, Deeper and Darker, Deer Mod, Mobs of Mythology, Ribbits, Useless Reptile)*
 - [Quad](https://modrinth.com/mod/quad) (Both) *(required by: More Crafting Tables (MCT))*
 
 ### Library
@@ -501,12 +511,12 @@ Total mods: 248
 - [Architectury API](https://modrinth.com/mod/architectury-api) (Both) *(required by: Adorable Hamster Pets, Animal Feeding Trough, Artifacts, Aurelj's Paintings, Cave Dust, ClickThrough Plus, Mobs of Mythology, Roughly Enough Items (REI))*
 - [Balm](https://modrinth.com/mod/balm) (Both) *(required by: Balm, Waystones)*
 - [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) (Both) *(required by: Frostiful, Thermoo, Traveler's Backpack)*
-- [Cloth Config API](https://modrinth.com/mod/cloth-config) (Both) *(required by: Accessories, AdventureZ, Artifacts, Balm, Beautify: Refabricated, Sit, Chat Heads, ClickThrough Plus, Connectible Chains [Fabric], DragonLoot, Falling Leaves, FastQuit, Fish of Thieves, Frostiful, Inventory Sorting, ItemLocks, More Culling, Paginated Advancements & Custom Frames, Paladin's Furniture Mod, Paradise Lost, Particle Rain, Roughly Enough Items (REI), Remove Reloading Screen, Shulker Box Tooltip, Status Effect Bars, Thermoo, Traveler's Backpack, Useless Reptile, Visuality, You're in Grave Danger, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better Jungle Temples, YUNG's Better Mineshafts, YUNG's Better Nether Fortresses, YUNG's Better Ocean Monuments, YUNG's Better Strongholds, YUNG's Better Witch Huts, YUNG's Bridges, Zombified Player - Kill Your Inner Zombie)*
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) (Both) *(required by: Accessories, AdventureZ, Artifacts, Balm, Beautify: Refabricated, Sit, Chat Heads, ClickThrough Plus, Connectible Chains [Fabric], DragonLoot, Falling Leaves, FastQuit, Fish of Thieves, Frostiful, Inventory Sorting, ItemLocks, More Culling, Paginated Advancements & Custom Frames, Paladin's Furniture Mod, Paradise Lost, Particle Rain, Roughly Enough Items (REI), Ribbits, Remove Reloading Screen, Shulker Box Tooltip, Status Effect Bars, Thermoo, Traveler's Backpack, Useless Reptile, Visuality, You're in Grave Danger, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better Jungle Temples, YUNG's Better Mineshafts, YUNG's Better Nether Fortresses, YUNG's Better Ocean Monuments, YUNG's Better Strongholds, YUNG's Better Witch Huts, YUNG's Bridges, Zombified Player - Kill Your Inner Zombie)*
 - [Cobweb](https://modrinth.com/mod/cobweb) (Both) *(required by: Harvest with ease)*
 - [Collective](https://modrinth.com/mod/collective) (Both) *(required by: Areas, Better Spawner Control, Bottled Air, Collective, Double Doors, Fish On The Line)*
 - [CoroUtil](https://modrinth.com/mod/coroutil) (Both) *(required by: What Are They Up To (Watut), Zombie Awareness)*
 - [Deimos](https://modrinth.com/mod/deimos) (Both) *(required by: More Music Discs)*
-- [Fabric API](https://modrinth.com/mod/fabric-api) (Both) *(required by: Accessories, Adorable Hamster Pets, Advanced Backups, Advancement Plaques, AdventureZ, Amendments, AppleSkin, Architectury API, Areas, Arrow pointers, Artifacts, Athena, AttributeFix, AzureLib, Balm, Better Animations Collection, Better Spawner Control, BetterGrassify, Biomes O' Plenty, Birds | Boids Addon, Sit, Boat Item View, Boids, Bookshelf, Bottled Air, cat_jam, Cave Dust, Chipped, Chunk Loaders, ClickThrough Plus, Cobweb, Collective, Connectible Chains [Fabric], Continuity, Cristel Lib, Debugify, Deeper and Darker, Deer Mod, SIHYWTCAMD, Display Case, Double Doors, DragonLoot, Dramatic Doors, Dungeons and Taverns, Easy Anvils, EasyAuth, Enhanced Block Entities, Elytra Slot, Elytra Trims, Enderite Gear & Tools, Entity Culling, Fabric Tailor, Falling Leaves, Farmer's Delight Refabricated, Fast Item Frames, FastQuit, Fish of Thieves, Fish On The Line, Robin's Fishery, Forge Config API Port, Forget Me Wand, Frostiful, Fzzy Config, Geckolib, Handcrafted, Harvest with ease, Iceberg, iChunUtil, Illager Invasion, Inventory Sorting, Jade 🔍, Let Sleeping Dogs Lie, Lithostitched, Living Things, Macaw's Bridges, Macaw's Doors, Macaw's Fences and Walls, Macaw's Furniture, Macaw's Holidays, Macaw's Lights and Lamps, Macaw's Paintings, Macaw's Paths and Pavings, Macaw's Roofs, Macaw's Stairs, Macaw's Trapdoors, Macaw's Windows, MidnightLib, Model Gap Fix, Mod Menu, Moonlight Lib, More Armor Trims, More Metal Grates, More Trades and Bartering, No Chat Reports, oωo (owo-lib), Paginated Advancements & Custom Frames, Paladin's Furniture Mod, Paradise Lost, Particle Rain, Prickle, Puzzles Lib, Quad, Regions Unexplored, Roughly Enough Items (REI), Reinforced Chests, Repurposed Structures - Quilt/Fabric, Resourceful Lib, Reusable Vault Blocks, Remove Reloading Screen, Shulker Box Tooltip, Simple Ender Backpack, SmartBrainLib, Smarter Farmers (farmers replant), Sodium Extra, Stoneworks, SuperMartijn642's Config Lib, SuperMartijn642's Core Lib, Supplementaries, Tameable Foxes, Tectonic, TerraBlender, The Bumblezone - Fabric, Thermoo, ThreadTweak, Tool Trims, Trading Post, Trailier Tales, Traveler's Backpack, Useless Reptile, Villages & Pillages, Visuality, Waystones, Xaero's World Map, YetAnotherConfigLib (YACL), You're in Grave Danger, YUNG's API, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better Jungle Temples, YUNG's Better Mineshafts, YUNG's Better Nether Fortresses, YUNG's Better Ocean Monuments, YUNG's Better Strongholds, YUNG's Better Witch Huts, YUNG's Bridges, Zombified Player - Kill Your Inner Zombie)*
+- [Fabric API](https://modrinth.com/mod/fabric-api) (Both) *(required by: Accessories, Adorable Hamster Pets, Advanced Backups, Advancement Plaques, AdventureZ, Amendments, AppleSkin, Architectury API, Areas, Arrow pointers, Artifacts, Athena, AttributeFix, AzureLib, Balm, Better Animations Collection, Better Spawner Control, BetterGrassify, Biomes O' Plenty, Birds | Boids Addon, Sit, Boat Item View, Boids, Bookshelf, Bottled Air, cat_jam, Cave Dust, Chipped, Chunk Loaders, ClickThrough Plus, Cobweb, Collective, Connectible Chains [Fabric], Continuity, Cristel Lib, Debugify, Deeper and Darker, Deer Mod, SIHYWTCAMD, Display Case, Double Doors, DragonLoot, Dramatic Doors, Dungeons and Taverns, Easy Anvils, EasyAuth, Enhanced Block Entities, Elytra Slot, Elytra Trims, Enderite Gear & Tools, Entity Culling, Fabric Tailor, Falling Leaves, Farmer's Delight Refabricated, Fast Item Frames, FastQuit, Fish of Thieves, Fish On The Line, Robin's Fishery, Forge Config API Port, Forget Me Wand, Frostiful, Fzzy Config, Geckolib, Handcrafted, Harvest with ease, Iceberg, iChunUtil, Illager Invasion, Inventory Sorting, Jade 🔍, Let Sleeping Dogs Lie, Lithostitched, Living Things, Macaw's Bridges, Macaw's Doors, Macaw's Fences and Walls, Macaw's Furniture, Macaw's Holidays, Macaw's Lights and Lamps, Macaw's Paintings, Macaw's Paths and Pavings, Macaw's Roofs, Macaw's Stairs, Macaw's Trapdoors, Macaw's Windows, MidnightLib, Model Gap Fix, Mod Menu, Moonlight Lib, More Armor Trims, More Metal Grates, More Trades and Bartering, No Chat Reports, oωo (owo-lib), Paginated Advancements & Custom Frames, Paladin's Furniture Mod, Paradise Lost, Particle Rain, Platform, Prickle, Puzzles Lib, Quad, Regions Unexplored, Roughly Enough Items (REI), Reinforced Chests, Repurposed Structures - Quilt/Fabric, Resourceful Lib, Reusable Vault Blocks, Ribbits, Remove Reloading Screen, Shulker Box Tooltip, Simple Ender Backpack, SmartBrainLib, Smarter Farmers (farmers replant), Sodium Extra, Stoneworks, SuperMartijn642's Config Lib, SuperMartijn642's Core Lib, Supplementaries, Tameable Foxes, TerraBlender, The Bumblezone - Fabric, Thermoo, ThreadTweak, Tool Trims, Trading Post, Trailier Tales, Traveler's Backpack, Useless Reptile, Vanilla Backport: Chase the Skies, The Garden Awakens, Villages&Pillages, Visuality, Waystones, World Preview, Xaero's World Map, YetAnotherConfigLib (YACL), You're in Grave Danger, YUNG's API, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better Jungle Temples, YUNG's Better Mineshafts, YUNG's Better Nether Fortresses, YUNG's Better Ocean Monuments, YUNG's Better Strongholds, YUNG's Better Witch Huts, YUNG's Bridges, Zombified Player - Kill Your Inner Zombie)*
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) (Both) *(required by: Adorable Hamster Pets, Elytra Trims, Fzzy Config)*
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) (Both) *(required by: Advancement Plaques, Better Animations Collection, Easy Anvils, Fast Item Frames, Harvest with ease, Illager Invasion, Puzzles Lib, Regions Unexplored, Remove Reloading Screen, Stoneworks, Trading Post)*
 - [GlitchCore](https://modrinth.com/mod/glitchcore) (Both) *(required by: Biomes O' Plenty)*
@@ -535,16 +545,17 @@ Total mods: 248
 - [Almanac](https://modrinth.com/mod/almanac) (Server) *(required by: Let Me Despawn)*
 - [Bookshelf](https://modrinth.com/mod/bookshelf-lib) (Both) *(required by: AttributeFix)*
 - [MidnightLib](https://modrinth.com/mod/midnightlib) (Both) *(required by: BetterGrassify, Mobs of Mythology, Repurposed Structures - Quilt/Fabric, The Bumblezone - Fabric)*
+- [Platform](https://modrinth.com/mod/platform) (Both) *(required by: Vanilla Backport: Chase the Skies, The Garden Awakens)*
 
 ### Library & Utility & Worldgen
 
-- [Lithostitched](https://modrinth.com/mod/lithostitched) (Server) *(required by: ChoiceTheorem's Overhauled Village, Tectonic)*
+- [Lithostitched](https://modrinth.com/mod/lithostitched) (Server) *(required by: ChoiceTheorem's Overhauled Village)*
 
 ### Library & Worldgen
 
 - [Cristel Lib](https://modrinth.com/mod/cristel-lib) (Server) *(required by: Terralith, Towns and Towers)*
-- [TerraBlender](https://modrinth.com/mod/terrablender) (Both) *(required by: Biomes O' Plenty, Regions Unexplored)*
-- [YUNG's API](https://modrinth.com/mod/yungs-api) (Both) *(required by: Villages & Pillages, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better Jungle Temples, YUNG's Better Mineshafts, YUNG's Better Nether Fortresses, YUNG's Better Ocean Monuments, YUNG's Better Strongholds, YUNG's Better Witch Huts, YUNG's Bridges)*
+- [TerraBlender](https://modrinth.com/mod/terrablender) (Both) *(required by: Biomes O' Plenty, Regions Unexplored, Vanilla Backport: Chase the Skies, The Garden Awakens)*
+- [YUNG's API](https://modrinth.com/mod/yungs-api) (Both) *(required by: Ribbits, Villages&Pillages, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better Jungle Temples, YUNG's Better Mineshafts, YUNG's Better Nether Fortresses, YUNG's Better Ocean Monuments, YUNG's Better Strongholds, YUNG's Better Witch Huts, YUNG's Bridges)*
 
 ### Mobs
 
@@ -552,7 +563,7 @@ Total mods: 248
 
 ### Optimization
 
-- [Sodium](https://modrinth.com/mod/sodium) (Client) *(required by: Iris Shaders, Sodium Extra)*
+- [Sodium](https://modrinth.com/mod/sodium) (Client) *(required by: Iris Shaders, Sodium Extra, Sodium Shadowy Path Blocks)*
 
 ### Utility
 
@@ -561,10 +572,10 @@ Total mods: 248
 
 ## Summary
 
-- Total mods: 248
-- Regular mods: 197
-- Dependency mods: 51
-- Categories: 93
+- Total mods: 253
+- Regular mods: 201
+- Dependency mods: 52
+- Categories: 95
 
 ## Side Information Legend
 
