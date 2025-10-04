@@ -448,6 +448,11 @@ hash = "6629036d01d281c001168ea901675909818e66a3e59dfb559cf20ab320ab65c4"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "23b3bf6d1931acd2aa6daa5409b274b0d4ec9ec659c01d11454093d8fcd1e342"
+metafile = true
+
+[[files]]
 file = "mods/difficulty.pw.toml"
 hash = "225747eea8d2f9d3103f75e48377502985a856dc7b52994e1851525c1d68ad68"
 metafile = true
