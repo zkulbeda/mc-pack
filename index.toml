@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODLIST.md"
-hash = "94cfa3fed5e6e6c420c64d1c8c2a01b19458d3860f7112d20c69049b9cc996df"
+hash = "17fee833d96024d55c1fd51898e3b84f5abc9a5c98ea2acf2356f713128ce187"
 
 [[files]]
 file = "config/AdvancedBackups.properties"
@@ -385,11 +385,6 @@ metafile = true
 [[files]]
 file = "mods/connectiblechains.pw.toml"
 hash = "5f4a2827868ba96bdcf5d33b59c04a7c45d9306a12a407fc612aae4824186d83"
-metafile = true
-
-[[files]]
-file = "mods/continents.pw.toml"
-hash = "ae08a9c482b986955b8b29158746d67adf6bb6d13c0d23d10ae032bac599c2d0"
 metafile = true
 
 [[files]]
@@ -1150,6 +1145,11 @@ metafile = true
 [[files]]
 file = "mods/tameable-foxes.pw.toml"
 hash = "b3bd39920a8f10f0447aac361b96794fd61753657a199771f090b70797902fc2"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "5065ed138b95bde80e0b2fa85e3a171f84c303b6b76938a6b09efd3c0613e9da"
 metafile = true
 
 [[files]]
