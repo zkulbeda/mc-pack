@@ -373,6 +373,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/clutterbestiary.pw.toml"
+hash = "38fadaed61f994f90396cd0cc888b7fa2c095e70edf8884b15985c54e47386f4"
+metafile = true
+
+[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "fa767604387c15268ae565381b68afcfe39c7284d24fd5e08c76c6e6ca8da2eb"
 metafile = true
@@ -558,6 +563,11 @@ hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "2b5f19e8d0dde0e603b4df323970429589147eef5d3658ce9f63d4a4d2ace93c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
 metafile = true
@@ -655,6 +665,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
+metafile = true
+
+[[files]]
+file = "mods/ghost.pw.toml"
+hash = "dab7b261050f3e07518a99c1a03a91b9287c29b182d3b6a6657ad12d668acaf4"
 metafile = true
 
 [[files]]

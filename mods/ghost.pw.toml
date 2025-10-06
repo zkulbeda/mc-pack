@@ -1,0 +1,13 @@
+name = "Ghost"
+filename = "ghosts-fabric-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gJKLGvbS/versions/NpL5z5fE/ghosts-fabric-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "312b9315ee1d32d4bbe0bc74df0c516ea304d4d9181f9fa9b2045ff5868e7f9ea5f2bc55bb55f98a73a1c4bbc80e3577efe2ba80732f8c3bc9964f3a8bde0d77"
+
+[update]
+[update.modrinth]
+mod-id = "gJKLGvbS"
+version = "NpL5z5fE"
