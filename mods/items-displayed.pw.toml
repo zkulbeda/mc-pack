@@ -1,0 +1,13 @@
+name = "Items Displayed [Fabric]"
+filename = "ItemsDisplayed - v1.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Guh4HXen/versions/BTxdJfoV/ItemsDisplayed%20-%20v1.3-1.21.1.jar"
+hash-format = "sha512"
+hash = "7c2d42c15c6496ba6b90b15472837a59f5864aa2b59f1544db246d6a42533c4d825b95dcaaa911ceaa82604fa242e35daa1827c6274547b601273eec13947eb8"
+
+[update]
+[update.modrinth]
+mod-id = "Guh4HXen"
+version = "BTxdJfoV"
