@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODLIST.md"
-hash = "17fee833d96024d55c1fd51898e3b84f5abc9a5c98ea2acf2356f713128ce187"
+hash = "c0af553d935e54af0ded85f98272fa0c0dc70f76db973563d24679b3c251b313"
 
 [[files]]
 file = "config/AdvancedBackups.properties"
@@ -960,11 +960,6 @@ metafile = true
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "8380570c51842e496a5fd039f2bd31a42aa5ebefe4475ffabea01569b8091f05"
-metafile = true
-
-[[files]]
-file = "mods/paradise-lost.pw.toml"
-hash = "2df84d647350e90d2ef8b835d071b9708e9398723e42ce6a627dbe723f91d3f8"
 metafile = true
 
 [[files]]
