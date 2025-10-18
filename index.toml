@@ -933,6 +933,11 @@ hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
 
 [[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "8045180817d7b423a94fda19e3ee60f506a719412c7b427bb0fd52d1377c28b2"
+metafile = true
+
+[[files]]
 file = "mods/named-villagers.pw.toml"
 hash = "b2200491e341e5ac7b05130aa65e7e38d008ce04e75443ef5786a2696090b3c7"
 metafile = true
