@@ -1,0 +1,24 @@
+{
+	// If true, a zombified player will spawn after the player gets killed by an Undead | default: true
+	"spawnZombifiedPlayerAfterDeath": true,
+	// If true, the Main and the Off Hand of the dead player will be transferred to the zombified player | default: true
+	"transferMainandOffHandToZombifiedPlayer": false,
+	// If true, the armor of the dead player will be transferred to the zombified player | default: true
+	"transferArmorToZombifiedPlayer": false,
+	// If true, the inventory of the dead player will be transferred to the zombified player | default: true
+	"transferInventoryToZombifiedPlayer": false,
+	// If true, a zombified player will spawn no matter how the player died | default: false
+	"spawnOnAnyDeath": false,
+	// If true, spawn location of the zombified player will printed out in chat | default: false
+	"printSpawnLocationInChat": false,
+	// If true, zombified players can break through doors | default: true
+	"zombifiedPlayersCanBreakDoors": true,
+	// If true, zombified players are stronger, faster and have more health | default: false
+	"makeTheZombifiedPlayersStronger": false,
+	// If true, zombified players are immune to fire and lava | default: false
+	"makeTheZombifiedPlayersImmuneToFire": false,
+	// If true, the mod will stop trying to fetch the player skin after several unsuccessful tries | default: true
+	"limitSkinFetchTries": true,
+	// If true, spawn zombified player after death by infection (Contagion mod needed!) | default: true
+	"spawnWhenKilledByInfection": true
+}

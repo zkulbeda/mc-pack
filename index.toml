@@ -41,6 +41,10 @@ file = "config/entityculling.json"
 hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "c5cdd1284611cef82015918339472c76716442e105872257fa72f9b812d1758c"
+
+[[files]]
 file = "config/fastquit.toml"
 hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
@@ -73,6 +77,10 @@ file = "config/rrls.toml"
 hash = "59fa5a7fdbcc83cc2dd9a23542d0f950d2e6ba64c368b456c4afc5f8900d8e1d"
 
 [[files]]
+file = "config/serverpause-common.toml"
+hash = "caf065f1698aafc92fe16397fba529f0ae9d9df837f0eba36c14b72ecc9104c0"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "77e47f82d7d77e20d0ab0d2f6a9b15b8a2aa18c833965a6d92375f28588e9cca"
 
@@ -83,6 +91,14 @@ hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 [[files]]
 file = "config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "f50c186ccacd4a876e6b3eb5a861dadbaca535d2ea8858f8b7b28d8af3de8ba7"
+
+[[files]]
+file = "config/zombifiedplayer.json5"
+hash = "c6f7394afc365319b982ca71e008d62ec151ee73b0510a82ab6b3df1aa7d76fe"
 
 [[files]]
 file = "mods/CatnipFabric-1.0.1.jar"
