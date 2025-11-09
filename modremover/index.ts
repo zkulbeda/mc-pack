@@ -524,7 +524,7 @@ class PackwizDependencyAnalyzer {
           console.error(`Failed to remove ${mod.name}:`, error instanceof Error ? error.message : error);
         }
       }
-      execSync(`${join(projectRoot, "packwiz.exe")} refresh`, { 
+      execSync(`${join(projectRoot, "packwiz")} refresh`, { 
             stdio: 'inherit',
             cwd: projectRoot
           });

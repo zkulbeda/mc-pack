@@ -4,5 +4,6 @@
 # Exclude README
 /README.md
 /packwiz.exe
+/packwiz
 /modremover
 /.packwiz-cache

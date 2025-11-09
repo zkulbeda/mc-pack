@@ -97,10 +97,6 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "f50c186ccacd4a876e6b3eb5a861dadbaca535d2ea8858f8b7b28d8af3de8ba7"
 
 [[files]]
-file = "config/zombifiedplayer.json5"
-hash = "c6f7394afc365319b982ca71e008d62ec151ee73b0510a82ab6b3df1aa7d76fe"
-
-[[files]]
 file = "mods/CatnipFabric-1.0.1.jar"
 hash = "c4fd8cc0f9de8dced70a603e5b852e9157ac2517e48157f1ebf629291bd51b36"
 
@@ -142,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "71385a965a8391b709fc68784d7c7933eb837048cf0649d3a20a065258fe3e8c"
-metafile = true
-
-[[files]]
-file = "mods/angel-islands.pw.toml"
-hash = "fdf4424e69732c9aed8b0ed0d8c4a75992db27c1b99917df134152431309a420"
 metafile = true
 
 [[files]]
@@ -536,11 +527,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "af20b5dd7a7826fd428edec189e5c657c9119bd1ddb799fa78b102b8fe6a980c"
-metafile = true
-
-[[files]]
-file = "mods/emerald-on-a-stick-(villager-follower).pw.toml"
-hash = "b6a4d42ff77d3e0a24ac006dafd3269e414980ee309e924c4d346845ea3f9a6e"
 metafile = true
 
 [[files]]
@@ -939,11 +925,6 @@ hash = "99f53ff881a1c2ce19a0d0d55adf61ec5458c736f29222f015f013478a8baf98"
 metafile = true
 
 [[files]]
-file = "mods/more-professions.pw.toml"
-hash = "6f8161c8e1c3c27ddd054e57d8c7ad7ba868e0c51ed2ca57dae3311211ac9636"
-metafile = true
-
-[[files]]
 file = "mods/more-trades-and-bartering.pw.toml"
 hash = "e150083cad554cd49950eb93e1a78d74ae8934661e1c153bbc48c236d3dd5c21"
 metafile = true
@@ -956,11 +937,6 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "8045180817d7b423a94fda19e3ee60f506a719412c7b427bb0fd52d1377c28b2"
-metafile = true
-
-[[files]]
-file = "mods/named-villagers.pw.toml"
-hash = "b2200491e341e5ac7b05130aa65e7e38d008ce04e75443ef5786a2696090b3c7"
 metafile = true
 
 [[files]]
@@ -1294,11 +1270,6 @@ hash = "e6233a928624d444f0112c4d0c6ee7fd85ba2384cfff9b1382117c75dbbca572"
 metafile = true
 
 [[files]]
-file = "mods/villagers-buy-enderpearls.pw.toml"
-hash = "5b07f52480307084528d1d1a105252ccd6671e5557355db86fbd21f1bb8d006c"
-metafile = true
-
-[[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "97be1a395f236011283b2b870b592fee3d5765318f93b89807af4ea2374cd0d9"
 metafile = true
@@ -1406,11 +1377,6 @@ metafile = true
 [[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "597a74f79ce4013258c7c45621d63d14c37e89658cd002bcf7193a9beaabb176"
-metafile = true
-
-[[files]]
-file = "mods/zombified-player.pw.toml"
-hash = "35651ca6c3da5b6f93edf97bc0978ed6d7c16c40b860ce32219fcb7f72b8ea32"
 metafile = true
 
 [[files]]
