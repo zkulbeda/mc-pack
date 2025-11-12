@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f153bb989055178aacb8d919283a32697f7342ff2e244b883867e47fe94b28d6"
+hash = "debc633d962665af2873b7e4c74a5bd8da18d6a883971e73b9039f9612f457b7"
 metafile = true
 
 [[files]]
@@ -876,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
 
 [[files]]
@@ -1166,7 +1166,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "edae36f34641287b847b23b8cebd8bae57f39064361606090737f9d89e6cc452"
+hash = "d3f1d02d785b5dd6d53ab6b38a903558b36e1e97dfb4e64b76375c75e26e90bb"
 metafile = true
 
 [[files]]
