@@ -7,3 +7,6 @@
 .packwiz-cache
 
 **/node_modules
+
+.instance
+.DS_Store
