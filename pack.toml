@@ -1,6 +1,7 @@
 name = "albyyyy"
 version = "1.0.1"
 pack-format = "packwiz:1.1.0"
+author = "zkulb"
 
 [index]
 file = "index.toml"
