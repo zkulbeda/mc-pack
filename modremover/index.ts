@@ -298,7 +298,7 @@ class PackwizDependencyAnalyzer {
           console.warn(`⚠️ Error parsing ${file}:`, error instanceof Error ? error.message : error);
         }
       }
-      
+    
       return mods;
     } catch (error) {
       throw new Error(`Could not read mods directory: ${error instanceof Error ? error.message : error}`);
