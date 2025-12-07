@@ -336,12 +336,14 @@ class PackwizDependencyAnalyzer {
         'User-Agent': 'Packwiz-Dependency-Analyzer/1.0.0'
       }
     });
-    
+
     if (!response.ok) {
       throw new Error(`Failed to fetch project details: ${response.status} ${response.statusText}`);
     }
     
     const project: ModrinthProject = await response.json() as ModrinthProject;
+
+    response.bytes()
     
     // Save to cache
     try {

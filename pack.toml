@@ -1,12 +1,12 @@
 name = "albyyyy"
+author = "zkulb"
 version = "1.0.1"
 pack-format = "packwiz:1.1.0"
-author = "zkulb"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2e0aa4e973d532b1b527bca9f94d126c04cdffc0de2788f659dea6c4004ca1f1"
+hash = "86fa00926ac08c52107ec568059ace9f2ec9dda537bed362236ddaa90aa0a43d"
 
 [versions]
 fabric = "0.17.2"

@@ -221,6 +221,11 @@ hash = "97a6a9f58bc8f9a0878288e54abd01469f30b5b7745952a052c17728fafb4b2b"
 metafile = true
 
 [[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "c6c07b0c2e1118289d736ee0f0760b8ff53f21d071305987052dc5687d03d8fb"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
@@ -552,11 +557,6 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
-metafile = true
-
-[[files]]
-file = "mods/exlines-copper-equipment.pw.toml"
-hash = "ef3f383957c8bf579c486eec1ea1c6dac939e754ab06213c1573774d07486c02"
 metafile = true
 
 [[files]]
